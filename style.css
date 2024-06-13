@@ -1,0 +1,14 @@
+.parent{
+    Width: 1280px 100%;
+    Height: 311px;
+    background-color: #710000;
+    position:relative;
+}
+.child{
+    position: absolute;
+    margin-left: 68px;
+    margin-top: 209px;
+}
+body{
+    background-color: #404040;
+}
